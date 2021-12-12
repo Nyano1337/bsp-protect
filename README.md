@@ -13,3 +13,4 @@ Python script by GAMMACASE
 ### Option B:
 - Install [Python](https://www.python.org/downloads)
 - Run `bspprotect.py <bsp filename>`
+- Do the rest of the steps in option A
