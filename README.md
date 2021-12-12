@@ -1,5 +1,5 @@
 # bsp-protect
-Strips entity lump from BSPs so maps can only be played in a specific server.
+Strips entity lump from BSPs so maps can only be played in a specific server. Attempting to run the downloaded BSP anywhere else will cause a crash.
 
 Python script by GAMMACASE
 
